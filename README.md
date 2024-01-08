@@ -100,7 +100,6 @@ So take a look around, check out my projects and let's create something amazing 
 
 
 
-![github-contribution-grid-snake](https://github.com/Hassanulhaq52/Hassanulhaq52/assets/81625175/99ac0930-48e9-4ca7-b166-6a040036f406)
 ![github-contribution-grid-snake](https://github.com/Hassanulhaq52/Hassanulhaq52/assets/81625175/361894ea-8672-463c-9c78-bfc2be99c437)
 
 <!--![snake gif](https://github.com/hassanulhaq52/hassanulhaq52/blob/output/github-contribution-grid-snake.svg) -->
