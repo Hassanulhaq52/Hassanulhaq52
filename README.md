@@ -1,7 +1,7 @@
 <!-- Intor -->
-<h1 align="center">Hey there, I'm Shahzad Umar Baig 👋🏻💻</h1>
+<h1 align="center">Hey there, I'm Hassan Ul Haq 👋🏻💻</h1>
 <!-- Tagline -->
-<h3 align="center">🚀 Flutter Developer at Blocship from Karachi, Pakistan</h3>
+<h3 align="center">🚀 Mobile Application Trainer at Aptech</h3>
 
 
 <!-- Badge -->
