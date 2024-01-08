@@ -1,22 +1,15 @@
 <!-- Intor -->
 <h1 align="center">Hey there, I'm Hassan Ul Haq 👋🏻💻</h1>
 <!-- Tagline -->
-<h3 align="center">🚀 Mobile Application Trainer at Aptech</h3>
+<h3 align="center">🚀 Mobile Application Trainer at Aptech from Karachi, Pakistan</h3>
 
-
-<!-- Badge -->
-<div align="center" >
-
-[![Certified Flutter Developer](https://img.shields.io/badge/Certified_Flutter_Developer-00B8D4?logo=flutter&logoColor=ffffff)](https://www.appbrewery.co/)
-
-</div>
 
 
 <!-- Badges -->
 <div align="center">
-      <img src="https://komarev.com/ghpvc/?username=ShahzadUmarBaig&label=Profile%20views&color=0e75b6&style=flat" alt="ShahzadUmarBaig" />
-      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/ShahzadUmarBaig?style=social"> 
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/ShahzadUmarBaig?style=social">
+      <img src="https://komarev.com/ghpvc/?username=hassanulhaq52&label=Profile%20views&color=0e75b6&style=flat" alt="ShahzadUmarBaig" />
+      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/hassanulhaq52?style=social"> 
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/hassanulhaq52?style=social">
 </div>
 <hr/>
 
