@@ -53,13 +53,6 @@ Explore my projects, and let's embark on the journey of creating something extra
       </a>
 </div>
 
-<!-- Some Acomplishments Section-->
-<h2 align="left">Some Acomplishments<img src="https://media.giphy.com/media/4KgqTAyBHBvNmjeuGE/giphy.gif" height="30px" width="30px"></h2>
-
-- 🚀 Achieved the title of "Certified Flutter Developer" from London App Brewery
-- 💪 Ex-Core Team Member of the Developer Students Club SMIU by Google
-- 🎓 Trained and mentored students as an ex-Beta Microsoft Learn Student Ambassador
-- 🔥 Conducted successful boot camps on Flutter for various communities, spreading the knowledge and love for the technology!
 
 <!-- Tools and Technology Section -->
 <h2 align="center">Tools and Technologies 🛠</h2>
