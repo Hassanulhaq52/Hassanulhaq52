@@ -85,11 +85,11 @@ So take a look around, check out my projects and let's create something amazing 
 <h2 align="center">Github Stats ⚡</h2>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/ShahzadUmarBaig/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShahzadUmarBaig&theme=react&border=61dafb&hide_border=true" alt="ShahzadUmarBaig" />
+    <a href="https://github.com/hassanulhaq52/github-readme-streak-stats" title="Go to Source">
+      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanulhaq52&theme=react&border=61dafb&hide_border=true" alt="ShahzadUmarBaig" />
     </a>
-    <a href="https://github.com/ShahzadUmarBaig/github-readme-stats" title="Go to Source">
-      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=ShahzadUmarBaig&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <a href="https://github.com/hassanulhaq52/github-readme-stats" title="Go to Source">
+      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=hassanulhaq52&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
 </p>
