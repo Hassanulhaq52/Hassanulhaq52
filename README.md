@@ -22,11 +22,11 @@ Beyond my coding endeavors, I find joy in sharing knowledge and assisting studen
 
 I am excited to share my work with you and I am open to collaborate with you on any project that you think I could be a valuable asset for.
 
-💻 Coding
-🌱 Learning new Technologies
-✨ Researching innovative Architectures and Implementations
-📢 Inspiring students
-🎯 Helping students with Flutter
+- 💻 Coding
+- 🌱 Learning new Technologies
+- ✨ Researching new Architecture and Implementation
+- 📢 Inspiring students
+- 🎯 Helping students with Flutter
 
 Explore my projects, and let's embark on the journey of creating something extraordinary together!
 
