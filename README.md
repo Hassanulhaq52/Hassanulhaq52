@@ -40,22 +40,22 @@ So take a look around, check out my projects and let's create something amazing 
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 
 <div align="center">
-      <a href="https://github.com/ShahzadUmarBaig/">
+      <a href="https://github.com/Hassanulhaq52/">
         <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff">
       </a>
-      <a href="https://www.linkedin.com/in/shahzadubaig/">
+      <a href="https://www.linkedin.com/in/hassanulhaque/">
         <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
       </a>
-      <a href="https://web.facebook.com/ShahzadUmarBaig/?_rdc=1&_rdr">
+      <a href="https://www.facebook.com/hassan.ulhaq.9638">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff">
       </a>
-      <a href="mailto:ShahzadUBaig@gmail.com">
+      <a href="mailto:Hassanulhaq214@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff">
       </a>
-      <a href="https://stackoverflow.com/users/14641365/shahzad-umar-baig">
+      <a href="https://stackoverflow.com/users/23211102/hassan-ul-haq">
         <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
       </a>
-      <a href="https://shahzadumarbaig.medium.com/">
+      <a href="https://medium.com/@Hassan-Ul-Haq">
         <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
       </a>
 </div>
