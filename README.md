@@ -78,7 +78,7 @@ So take a look around, check out my projects and let's create something amazing 
 
 <br>
 <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanulhaq52&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanulhaq52&theme=dark&layout=compact&langs_count=30&hide_title=true"/>
 </div>
 
 <!-- Github Stats Section -->
