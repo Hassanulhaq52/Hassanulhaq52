@@ -1,6 +1,6 @@
 <!-- Intor -->
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKf9ZBA3zFS_uML2a_xSSjxfG_cJ4jFjtsbbTA_s4dvsqOsSSFAh-errWKE-IowexvWw8&usqp=CAU" height="60%">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKf9ZBA3zFS_uML2a_xSSjxfG_cJ4jFjtsbbTA_s4dvsqOsSSFAh-errWKE-IowexvWw8&usqp=CAU" height="100%">
 
 <h1 align="center">Hey there, I'm Hassan Ul Haq 👋🏻💻</h1>
 <!-- Tagline -->
