@@ -53,7 +53,7 @@ Explore my projects, and let's embark on the journey of creating something extra
       </a>
 </div>
 
-
+<br/>
 <!-- Tools and Technology Section -->
 <h2 align="center">Tools and Technologies 🛠</h2>
 <div align="center">
