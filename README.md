@@ -1,6 +1,7 @@
 <!-- Intor -->
 
-![software-developer-6521720_1280](https://github.com/Hassanulhaq52/Hassanulhaq52/assets/81625175/16e9430f-c098-480d-b60a-4c0741177f27)
+<img src="![software-developer-6521720_1280](https://github.com/Hassanulhaq52/Hassanulhaq52/assets/81625175/16e9430f-c098-480d-b60a-4c0741177f27)
+" height="60%">
 
 <h1 align="center">Hey there, I'm Hassan Ul Haq 👋🏻💻</h1>
 <!-- Tagline -->
