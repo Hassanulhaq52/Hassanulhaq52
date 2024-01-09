@@ -30,6 +30,8 @@ I am excited to share my work with you and I am open to collaborate with you on 
 
 Explore my projects, and let's embark on the journey of creating something extraordinary together!
 
+<br/>
+
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 
 <div align="center">
@@ -54,8 +56,8 @@ Explore my projects, and let's embark on the journey of creating something extra
 </div>
 
 <br/>
-<br/>
-<br/>
+
+
 <!-- Tools and Technology Section -->
 <h2 align="center">Tools and Technologies 🛠</h2>
 <div align="center">
