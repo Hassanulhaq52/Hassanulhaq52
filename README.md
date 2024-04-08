@@ -64,7 +64,6 @@ Explore my projects, and let's embark on the journey of creating something extra
 
 <p align="center"> Also, You can reach me via phone or WhatsApp at +92 3152204249. </p>
 
-<h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 <br/>
 
 
