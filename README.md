@@ -66,7 +66,7 @@ Also, You can reach me via phone or WhatsApp at +92 3152204249.
 
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 
-<br/>
+
 
 <!-- Tools and Technology Section -->
 <h2 align="center">Tools and Technologies 🛠</h2>
