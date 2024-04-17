@@ -80,6 +80,8 @@ Explore my projects, and let's embark on the journey of creating something extra
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanulhaq52&theme=dark&layout=compact&langs_count=30&hide_title=true"/>
 </div>
 
+<br/>
+
 <!-- Github Stats Section -->
 <h2 align="center">Github Stats ⚡</h2>
 <p align=center>
