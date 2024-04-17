@@ -6,7 +6,7 @@
 
 <h1 align="center">Hey there, I'm Hassan Ul Haq 👋🏻💻</h1>
 <!-- Tagline -->
-<h3 align="center">🚀 Mobile Application Trainer at Aptech from Karachi, Pakistan</h3>
+<h3 align="center">🚀 Mobile Application Developer at Rholab from Karachi, Pakistan</h3>
 
 
 
