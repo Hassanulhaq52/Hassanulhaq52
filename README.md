@@ -33,7 +33,7 @@ I am excited to share my work with you and am open to collaborating on any proje
 - 🌱 Learning new Technologies
 - ✨ Researching new Architecture and Implementation
 - 📢 Inspiring students
-- 🎯 Helping students with Flutter
+- 🎯 Helping Students with Flutter and Backend Concepts
 
 Explore my projects, and let's embark on the journey of creating something extraordinary together!
 
