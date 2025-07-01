@@ -21,11 +21,13 @@
 <!-- Who I am Section -->
 <h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
 
-I am a dedicated web and mobile app developer with a passion for Flutter. Always eager to tackle new and thrilling challenges, I bring a wealth of experience in crafting high-quality, user-friendly applications. My expertise extends to exploring innovative architectures and implementing cutting-edge solutions.
+I am a dedicated web and mobile app developer with a passion for Flutter. Always eager to tackle new and thrilling challenges, I bring a wealth of experience in crafting high-quality, user-friendly applications. My expertise spans both frontend and backend development, including building and integrating RESTful APIs, working with databases like MySQL and SQL Server, and utilizing technologies such as ASP.NET and C# to develop robust backend systems.
 
-Beyond my coding endeavors, I find joy in sharing knowledge and assisting students in acquiring new skills. Devoted to nurturing the next generation of developers, I actively seek opportunities to inspire and support budding talents. I am enthusiastic about collaborating on projects where my skills can be a valuable asset.
+I enjoy exploring innovative architectures and implementing cutting-edge solutions that enhance performance and maintainability.
 
-I am excited to share my work with you and I am open to collaborate with you on any project that you think I could be a valuable asset for.
+Beyond my coding endeavors, I find joy in sharing knowledge and assisting students in acquiring new skills. Devoted to nurturing the next generation of developers, I actively seek opportunities to inspire and support budding talents. I am enthusiastic about collaborating on projects where my full-stack skills can be a valuable asset.
+
+I am excited to share my work with you and am open to collaborating on any project where you think I could contribute meaningfully.
 
 - 💻 Coding
 - 🌱 Learning new Technologies
