@@ -6,7 +6,7 @@
 
 <h1 align="center">Hey there, I'm Hassan Ul Haq 👋🏻💻</h1>
 <!-- Tagline -->
-<h3 align="center">🚀 Mobile Application Developer at Rholab from Karachi, Pakistan</h3>
+<h3 align="center">🚀 Software Engineer at Decibel HRMS from Karachi, Pakistan</h3>
 
 
 
@@ -87,7 +87,7 @@ Explore my projects, and let's embark on the journey of creating something extra
 <p align=center>
   <div align=center>
     <a href="https://github.com/hassanulhaq52/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanulhaq52&theme=react&border=61dafb&hide_border=true" alt="ShahzadUmarBaig" />
+      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanulhaq52&theme=react&border=61dafb&hide_border=true" alt="Hassanulhaq" />
     </a>
     <a href="https://github.com/hassanulhaq52/github-readme-stats" title="Go to Source">
       <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=hassanulhaq52&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
