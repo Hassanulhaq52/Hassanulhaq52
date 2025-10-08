@@ -6,7 +6,7 @@
 
 <h1 align="center">Hey there, I'm Hassan Ul Haq 👋🏻💻</h1>
 <!-- Tagline -->
-<h3 align="center">🚀 Software Engineer at Decibel HRMS from Karachi, Pakistan</h3>
+<h3 align="center">🚀 Software Engineer at Adamjee Groups from Karachi, Pakistan</h3>
 
 
 
