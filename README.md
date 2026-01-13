@@ -6,7 +6,7 @@
 
 <h1 align="center">Hey there, I'm Hassan Ul Haq 👋🏻💻</h1>
 <!-- Tagline -->
-<h3 align="center">🚀 Software Engineer | Mobile Application Developer | Flutter & Full-Stack Developer from Karachi, Pakistan</h3>
+<h3 align="center">🚀 Software Engineer | Mobile Application Developer | Flutter & Full-Stack Developer Adamjee Groups from Karachi, Pakistan</h3>
 
 
 
