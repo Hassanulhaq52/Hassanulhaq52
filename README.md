@@ -85,6 +85,14 @@ Explore my projects, and let's embark on the journey of creating something extra
 <br/>
 
 
+<!-- GitHub Stats -->
+<h2 align="center">GitHub Analytics</h2>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hassanulhaq52&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-streak-stats-eight.vercel.app/?user=hassanulhaq52&theme=react&hide_border=true" alt="Streak Stats" />
+</div>
+
 
 
 <!-- Github Stats Section -->
