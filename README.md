@@ -94,6 +94,14 @@ Explore my projects, and let's embark on the journey of creating something extra
 </div>
 
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hassanulhaq52&theme=react&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
+</div>
+
+<br/>
+
 
 <!-- Github Stats Section -->
 <h2 align="center">Github Stats ⚡</h2>
