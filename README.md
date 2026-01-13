@@ -84,6 +84,24 @@ Explore my projects, and let's embark on the journey of creating something extra
 
 <br/>
 
+
+
+<h2 align="center">GitHub Analytics</h2>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShahzadUmarBaig&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-streak-stats-eight.vercel.app/?user=ShahzadUmarBaig&theme=react&hide_border=true" alt="Streak Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShahzadUmarBaig&theme=react&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
+</div>
+
+<br/>
+
+
 <!-- Github Stats Section -->
 <h2 align="center">Github Stats ⚡</h2>
 <p align=center>
