@@ -110,7 +110,7 @@ Explore my projects, and let's embark on the journey of creating something extra
 
 
 <!-- Tools and Technology Section -->
-<h2 align="center">Tools and Technologies 🛠</h2>
+<!-- <h2 align="center">Tools and Technologies 🛠</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -122,7 +122,7 @@ Explore my projects, and let's embark on the journey of creating something extra
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanulhaq52&theme=dark&layout=compact&langs_count=30&hide_title=true"/>
 </div>
 
-<br/>
+<br/> -->
 
 
 <!-- GitHub Stats -->
@@ -154,7 +154,7 @@ Explore my projects, and let's embark on the journey of creating something extra
 
 
 <!-- Github Stats Section -->
-<h2 align="center">Github Stats ⚡</h2>
+<!-- <h2 align="center">Github Stats ⚡</h2>
 <p align=center>
   <div align=center>
     <a href="https://github.com/hassanulhaq52/github-readme-streak-stats" title="Go to Source">
@@ -164,7 +164,7 @@ Explore my projects, and let's embark on the journey of creating something extra
       <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=hassanulhaq52&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-</p>
+</p> -->
 
 
 <!-- My Contribution Section -->
