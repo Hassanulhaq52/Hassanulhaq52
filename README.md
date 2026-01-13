@@ -103,6 +103,16 @@ Explore my projects, and let's embark on the journey of creating something extra
 <br/>
 
 
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanulhaq52&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+
+
+
 <!-- Github Stats Section -->
 <h2 align="center">Github Stats ⚡</h2>
 <p align=center>
