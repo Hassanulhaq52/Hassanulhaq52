@@ -9,6 +9,14 @@
 <h3 align="center">🚀 Software Engineer | Mobile Application Developer | Flutter & Full-Stack Developer from Karachi, Pakistan</h3>
 
 
+<!-- Profile Badges -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hassanulhaq52&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/hassanulhaq52?style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/hassanulhaq52?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Top%20Langs-Focus-61dafb?style=flat" alt="Top Languages"/>
+</div>
+
 
 <!-- Badges -->
 <div align="center">
