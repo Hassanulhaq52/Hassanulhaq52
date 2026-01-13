@@ -40,7 +40,6 @@ Explore my projects, and let's embark on the journey of creating something extra
 <br/>
 
 
-
 <!-- Tech Stack -->
 <h2 align="center">Tech Stack & Tools</h2>
 
@@ -77,6 +76,8 @@ Explore my projects, and let's embark on the journey of creating something extra
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-FC636B?style=for-the-badge&logo=asana&logoColor=white)
@@ -84,95 +85,6 @@ Explore my projects, and let's embark on the journey of creating something extra
 ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
-
-
-
-
-
-<!-- Tech Stack -->
-<h2 align="center">Tech Stack & Tools</h2>
-
-<div align="center">
-
-**Mobile Development**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![FlutterFlow](https://img.shields.io/badge/FlutterFlow-7B2DFF?style=for-the-badge&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
-**State Management & Architecture**
-
-![BLoC](https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-00B4AB?style=for-the-badge&logo=flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Clean_Architecture](https://img.shields.io/badge/Clean_Architecture-6DB33F?style=for-the-badge&logo=checkmarx&logoColor=white)
-
-**Backend & Database**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST_APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
-<br/>
-
-
-<h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
-
-<div align="center">
-      <a href="https://github.com/Hassanulhaq52/">
-        <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff">
-      </a>
-      <a href="https://www.linkedin.com/in/hassanulhaque/">
-        <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
-      </a>
-      <a href="https://www.facebook.com/hassan.ulhaq.9638">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff">
-      </a>
-      <a href="mailto:Hassanulhaq214@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff">
-      </a>
-      <a href="https://stackoverflow.com/users/23211102/hassan-ul-haq">
-        <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-      </a>
-      <a href="https://medium.com/@Hassan-Ul-Haq">
-        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-      </a>
-</div>
-
-<br/>
-
-<p align="center"> Also, You can reach me via phone or WhatsApp at +92 3152204249. </p>
-
-<br/>
-
-
-<!-- Tools and Technology Section -->
-<!-- <h2 align="center">Tools and Technologies 🛠</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-<br>
-<br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanulhaq52&theme=dark&layout=compact&langs_count=30&hide_title=true"/>
-</div>
-
-<br/> -->
-
 
 <!-- GitHub Stats -->
 <h2 align="center">GitHub Analytics</h2>
