@@ -4,10 +4,17 @@
 
 <br/>
 
-<h1 align="center">Hey there, I'm Hassan Ul Haq 👋🏻💻</h1>
+<!-- <h1 align="center">Hey there, I'm Hassan Ul Haq 👋🏻💻</h1> -->
 <!-- Tagline -->
-<h3 align="center">🚀 Software Engineer | Mobile Application Developer | Flutter & Full-Stack Developer at Adamjee Groups from Karachi, Pakistan</h3>
+<!-- <h3 align="center">🚀 Software Engineer | Mobile Application Developer | Flutter & Full-Stack Developer at Adamjee Groups from Karachi, Pakistan</h3> -->
 
+
+<!-- Typing Animation Header -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00B8D4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+there%2C+I'm+Hassan+Ul+Haq+%F0%9F%91%8B%F0%9F%8F%BB;Software+Engineer+|+Mobile+Application+Developer+|+Flutter+&+Full-Stack+Developer+at+Adamjee+Groups+from+Karachi,+Pakistan+%26+FlutterFlow+Developer" alt="Typing SVG" />
+  </a>
+</div>
 
 
 <!-- Badges -->
