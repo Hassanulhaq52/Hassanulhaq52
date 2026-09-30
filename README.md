@@ -4,49 +4,78 @@
 
 <br/>
 
-<!-- <h1 align="center">Hey there, I'm Hassan Ul Haq 👋🏻💻</h1> -->
-<!-- Tagline -->
-<!-- <h3 align="center">🚀 Software Engineer | Mobile Application Developer | Flutter & Full-Stack Developer at Adamjee Groups from Karachi, Pakistan</h3> -->
-
 
 <!-- Typing Animation Header -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00B8D4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+there%2C+I'm+Hassan+Ul+Haq+%F0%9F%91%8B%F0%9F%8F%BB;Senior+Flutter+%26+Full-Stack+Developer" alt="Typing SVG" />
   </a>
+
+<!-- Tagline -->
+<h3 align="center">Building Production-Ready Mobile Apps from Karachi, Pakistan</h3>
+
+ <br/>
+
+  <p>
+    <strong>Software Engineer</strong> •
+    <strong>Flutter Developer</strong> •
+    <strong>Full-Stack Developer</strong>
+  </p>
+
+  <p>
+    📍 Karachi, Pakistan &nbsp; • &nbsp;
+    💼 Software Engineer at <strong>Adamjee Group</strong>
+  </p>
+
+  <br/>
+
+  <a href="https://github.com/hassanulhaq52">
+    <img src="https://komarev.com/ghpvc/?username=hassanulhaq52&label=Profile%20Views&color=00B8D4&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/hassanulhaq52?tab=followers">
+    <img src="https://img.shields.io/github/followers/hassanulhaq52?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/hassanulhaq52?tab=repositories">
+    <img src="https://img.shields.io/github/stars/hassanulhaq52?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars"/>
+  </a>
+
 </div>
-
-
-
-
-<!-- Badges -->
-<div align="center">
-      <img src="https://komarev.com/ghpvc/?username=hassanulhaq52&label=Profile%20views&color=0e75b6&style=flat" alt="ShahzadUmarBaig" />
-      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/hassanulhaq52?style=social"> 
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/hassanulhaq52?style=social">
-</div>
-<hr/>
-
-<!-- Who I am Section -->
-<h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
-
-I am a dedicated web and mobile app developer with a passion for Flutter. Always eager to tackle new and thrilling challenges, I bring a wealth of experience in crafting high-quality, user-friendly applications. My expertise spans both frontend and backend development, including building and integrating RESTful APIs, working with databases like MySQL and SQL Server, and utilizing technologies such as ASP.NET and C# to develop robust backend systems.
-
-I enjoy exploring innovative architectures and implementing cutting-edge solutions that enhance performance and maintainability.
-
-Beyond my coding endeavors, I find joy in sharing knowledge and assisting students in acquiring new skills. Devoted to nurturing the next generation of developers, I actively seek opportunities to inspire and support budding talents. I am enthusiastic about collaborating on projects where my full-stack skills can be a valuable asset.
-
-I am excited to share my work with you and am open to collaborating on any project where you think I could contribute meaningfully.
-
-- 💻 Coding
-- 🌱 Learning new Technologies
-- ✨ Researching new Architecture and Implementation
-- 📢 Inspiring students
-- 🎯 Helping Students with Flutter and Backend Concepts
-
-Explore my projects, and let's embark on the journey of creating something extraordinary together!
 
 <br/>
+  
+</div>
+
+
+<br/>
+
+---
+
+<!-- ========================================================= -->
+<!--                       ABOUT ME                            -->
+<!-- ========================================================= -->
+
+## 👨‍💻 About Me
+
+I'm a **Software Engineer specializing in Flutter and full-stack application development**, focused on building scalable, responsive, and production-ready applications.
+
+I work across the entire development lifecycle — from **pixel-perfect UI implementation and state management** to **REST APIs, backend services, databases, authentication, and deployment**.
+
+### 🚀 What I Do
+
+- 📱 Build cross-platform applications with **Flutter & Dart**
+- 🎨 Transform Figma designs into responsive, production-ready UIs
+- 🧩 Design scalable applications using **Clean Architecture & MVC**
+- 🔄 Implement state management with **BLoC, GetX & Provider**
+- 🔌 Build and integrate **REST APIs**
+- ⚙️ Develop backend services using **C# & ASP.NET**
+- 🗄️ Work with **MySQL, SQL Server & Firebase**
+- 🔐 Implement authentication and secure application flows
+- 🚀 Deploy applications to **Google Play, App Store & Web**
+- 👨‍🏫 Share knowledge and help aspiring developers learn Flutter
+
+<br/>
+
+---
 
 
 <!-- Tech Stack -->
@@ -95,8 +124,37 @@ Explore my projects, and let's embark on the journey of creating something extra
 
 </div>
 
+
+<br/>
+
+---
+
+<!-- ========================================================= -->
+<!--                    WHAT I WORK ON                         -->
+<!-- ========================================================= -->
+
+## 💡 What I'm Currently Exploring
+
+<div align="center">
+
+| Area | Focus |
+|:---:|:---|
+| 📱 **Flutter** | Scalable & production-ready applications |
+| 🤖 **AI + Apps** | Integrating AI capabilities into modern applications |
+| 🏗️ **Architecture** | Clean Architecture & maintainable codebases |
+| ⚙️ **Backend** | ASP.NET, REST APIs & database-driven systems |
+| 🎨 **UI/UX** | Responsive & pixel-perfect interfaces |
+| 🚀 **Performance** | Optimization, scalability & better user experiences |
+
+</div>
+
+<br/>
+
+---
+
+
 <!-- GitHub Stats -->
-<h2 align="center">GitHub Analytics</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hassanulhaq52&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -120,29 +178,34 @@ Explore my projects, and let's embark on the journey of creating something extra
 
 <br/>
 
-
-
-
-<!-- Github Stats Section -->
-<!-- <h2 align="center">Github Stats ⚡</h2>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/hassanulhaq52/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanulhaq52&theme=react&border=61dafb&hide_border=true" alt="Hassanulhaq" />
-    </a>
-    <a href="https://github.com/hassanulhaq52/github-readme-stats" title="Go to Source">
-      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=hassanulhaq52&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-</p> -->
-
-
 <!-- My Contribution Section -->
 <h2 align="left">Here are my Contributions <img src="https://media.giphy.com/media/f7Ox8bCtiirhtPXR1h/giphy.gif" height="50px" width="50px"></h2>
 
-
-
 ![github-contribution-grid-snake](https://github.com/Hassanulhaq52/Hassanulhaq52/assets/81625175/361894ea-8672-463c-9c78-bfc2be99c437)
 
-<!--![snake gif](https://github.com/hassanulhaq52/hassanulhaq52/blob/output/github-contribution-grid-snake.svg) -->
 
+<!-- ========================================================= -->
+<!--                       CONNECT                             -->
+<!-- ========================================================= -->
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in **building useful products, collaborating on interesting ideas, and connecting with fellow developers.**
+
+<br/>
+
+<a href="https://github.com/hassanulhaq52">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hassanulhaque">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+⭐ **If you find something useful here, consider giving the repository a star!**
+
+</div>
